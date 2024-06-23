@@ -1,1 +1,1 @@
-"Experience the power of our CRUD app, combining Django's backend reliability with Flutter's sleek frontend. Effortlessly manage data - Create, Read, Update, and Delete with ease. Whether on web or mobile, streamline your operations with simplicity and style."
+"Experience the power of CRUD app, Django's backend. Effortlessly manage data - Create, Read, Update, and Delete with ease."
